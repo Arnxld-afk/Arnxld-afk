@@ -2,6 +2,7 @@
 
 
 # Hey I am Arnxld
+## I am a discord bot / Minecraft plugin developer.
 
 <!-- Skills -->
 <p>
