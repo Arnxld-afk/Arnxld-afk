@@ -1,8 +1,8 @@
 <div align="center">
 
-
-<p style="font-size: 28px; font-weight: bold;">Hey I am Arnxld</p>
-<p style="font-size: 20px;">I am a Discord bot / Minecraft plugin developer.</p>
+<!-- Intro -->
+<p><b>Hey I am <font color="#0891b2">Arnxld</font></b></p>
+<p><b>I am a Discord bot / Minecraft plugin developer.</b></p>
 
 <!-- Skills -->
 <p>
