@@ -1,8 +1,8 @@
 <div align="center">
 
 
-# Hey I am Arnxld
-## I am a discord bot / Minecraft plugin developer.
+<p style="font-size: 28px; font-weight: bold;">Hey I am Arnxld</p>
+<p style="font-size: 20px;">I am a Discord bot / Minecraft plugin developer.</p>
 
 <!-- Skills -->
 <p>
