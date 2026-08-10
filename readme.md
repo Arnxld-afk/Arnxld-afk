@@ -1,96 +1,60 @@
 <div align="center">
 
-<p><b>Hey, I'm <font color="#0891b2">Arnxld</font></b></p>
+# Hey, I'm Arnxld 👋
 
-<p><b>I'm a Discord bot and Minecraft plugin developer.</b></p>
+**Discord bot & Minecraft plugin developer**
 
-<p>
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="36" height="36"/>
-</a>
-<a href="https://kotlinlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" title="Kotlin" width="36" height="36"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" height="36"/>
-</a>
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="36" height="36"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" height="36"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="36" height="36"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="36" height="36"/>
-</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="FastAPI" width="36" height="36"/>
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36"/>
-</a>
-<a href="https://supabase.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" title="Supabase" width="36" height="36"/>
-</a>
-<a href="https://ubuntu.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" height="36"/>
-</a>
-</p>
-
-<p>
-<a href="https://github.com/Arnxld-afk" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" title="GitHub"/>
-</picture>
-</a>
-<a href="https://discord.com/users/968955869008101436" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" title="Discord"/>
-</picture>
-</a>
-</p>
+<a href="https://github.com/Arnxld"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://discord.com/users/YOUR_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 </div>
 
-<h2>Languages and tools</h2>
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="36" height="36"/></a> <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" title="Kotlin" width="36" height="36"/></a> <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="36" height="36"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" height="36"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" height="36"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="36" height="36"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="36" height="36"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="FastAPI" width="36" height="36"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36"/></a> <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" title="Supabase" width="36" height="36"/></a> <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" height="36"/></a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
-<h2>GitHub stats</h2>
+---
+
+### 📊 Stats
 
 <div align="center">
 
-<a href="https://github.com/Arnxld-afk">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnxld-afk&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
-</a>
+<img height="165" src="https://grs-arnxld.vercel.app/api?username=Arnxld&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="165" src="https://grs-arnxld.vercel.app/api/top-langs/?username=Arnxld&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=Arnxld&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
-<h2>Top repositories</h2>
+---
+
+### 📌 Projects
 
 <div align="center">
-
-<a href="https://github.com/Arnxld-afk/Nodes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnxld-afk&repo=Nodes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Nodes"/>
-</a>
-
+  <a href="https://github.com/Arnxld/Nodes">
+    <img src="https://grs-arnxld.vercel.app/api/pin/?username=Arnxld&repo=Nodes&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
 </div>
 
+---
+
 <div align="center">
-
-<a href="https://github.com/Arnxld-afk">
-<img src="https://komarev.com/ghpvc/?username=Arnxld-afk&color=0891b2&style=flat-square&label=Profile+views" alt="Profile views"/>
-</a>
-
+  <img src="https://img.shields.io/github/followers/Arnxld?style=flat-square&color=7F52FF&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/Arnxld?style=flat-square&color=7F52FF&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Arnxld&style=flat-square&color=7F52FF" />
 </div>
