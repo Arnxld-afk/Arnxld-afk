@@ -1,25 +1,45 @@
 <div align="center">
 
-<!-- Intro -->
-<p><b>Hey I am <font color="#0891b2">Arnxld</font></b></p>
-<p><b>I am a Discord bot / Minecraft plugin developer.</b></p>
+<p><b>Hey, I'm <font color="#0891b2">Arnxld</font></b></p>
 
-<!-- Skills -->
+<p><b>I'm a Discord bot and Minecraft plugin developer.</b></p>
+
 <p>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="36" height="36"/></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" title="Kotlin" width="36" height="36"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" height="36"/></a>
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="36" height="36"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" height="36"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="36" height="36"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="36" height="36"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="Fast API" width="36" height="36"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36"/></a>
-<a href="https://supabase.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" title="Supabase" width="36" height="36"/></a>
-<a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" height="36"/></a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="36" height="36"/>
+</a>
+<a href="https://kotlinlang.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" title="Kotlin" width="36" height="36"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" height="36"/>
+</a>
+<a href="https://www.oracle.com/java/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="36" height="36"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" height="36"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="36" height="36"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="36" height="36"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="FastAPI" width="36" height="36"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36"/>
+</a>
+<a href="https://supabase.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" title="Supabase" width="36" height="36"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" height="36"/>
+</a>
 </p>
 
-<!-- Socials -->
 <p>
 <a href="https://github.com/Arnxld-afk" target="_blank">
 <picture>
@@ -37,15 +57,40 @@
 </a>
 </p>
 
-<!-- GitHub Stats -->
+</div>
+
+<h2>Languages and tools</h2>
+
+<div align="center">
+
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python" width="36" height="36"/></a> <a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" title="Kotlin" width="36" height="36"/></a> <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" title="Java" width="36" height="36"/></a> <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" title="Git" width="36" height="36"/></a> <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" title="VS Code" width="36" height="36"/></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" title="MongoDB" width="36" height="36"/></a> <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySQL" width="36" height="36"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" title="FastAPI" width="36" height="36"/></a> <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" title="Flask" width="36" height="36"/></a> <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" title="Supabase" width="36" height="36"/></a> <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Ubuntu" width="36" height="36"/></a>
+
+</div>
+
+<h2>GitHub stats</h2>
+
+<div align="center">
+
 <a href="https://github.com/Arnxld-afk">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnxld-afk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnxld-afk&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
 </a>
 
-<!-- Top Repositories -->
-<h2>Top Repositories</h2>
+</div>
+
+<h2>Top repositories</h2>
+
+<div align="center">
+
 <a href="https://github.com/Arnxld-afk/Nodes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnxld-afk&repo=Nodes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arnxld-afk&repo=Nodes&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Nodes"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/Arnxld-afk">
+<img src="https://komarev.com/ghpvc/?username=Arnxld-afk&color=0891b2&style=flat-square&label=Profile+views" alt="Profile views"/>
 </a>
 
 </div>
