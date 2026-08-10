@@ -34,10 +34,10 @@
 
 <div align="center">
 
-<img height="165" src="https://grs-arnxld.vercel.app/api?username=Arnxld&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="165" src="https://grs-arnxld.vercel.app/api/top-langs/?username=Arnxld&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
+<img height="165" src="https://grs-arnxld.vercel.app/api?username=Arnxld-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
+<img height="165" src="https://grs-arnxld.vercel.app/api/top-langs/?username=Arnxld-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
 
-<img src="https://streak-stats.demolab.com?user=Arnxld&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=Arnxld-afk&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
